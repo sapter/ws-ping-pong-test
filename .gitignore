@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional TypeScript cache
+*.tsbuildinfo
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# Optional compiled JavaScript files in a specific source directory
+# dist/
+
+# Environment files
+.env
+
+# IDE specific files
+.idea/
+*.code-workspace
+.vscode/
